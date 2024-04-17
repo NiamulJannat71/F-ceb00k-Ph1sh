@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://is.gd/UQreTd"><img title="Made by Niamul src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
+<a href="https://is.gd/UQreTd"><img title="Made by Niamul src="https:www.facebook.com/realniamul91/
 </p>
 <p>
 <a href="https://img.shields.io/badge/Niamul-Jannat-green" ><img  src="https://img.shields.io/badge/Niamul-Jannat-blue"></a>  <a href="#" ><img  src="https://img.shields.io/badge/FPHISH-red"></a>  <a href="#"><img src="https://img.shields.io/badge/MADE%20IN%20-BASH-black"></a></p>
