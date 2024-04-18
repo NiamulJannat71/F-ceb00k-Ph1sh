@@ -17,9 +17,8 @@
 *`chmod +x *`
 
 *`./fphish.sh`
-### this tool is made for testing . I am not responsible for any illegal activity
+### this tool is made by NIAMUL JANNAT for testing . I am not responsible for any illegal activity
 
-<a href="https:www.facebook.com/realniamul91"><img title="Contact with Hacker"
 
 
 
